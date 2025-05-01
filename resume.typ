@@ -1,4 +1,4 @@
-#import "Bayer.Resume/template.typ": *
+#import "./template.typ": *
 
 #show : template.with()
 
@@ -39,9 +39,7 @@
 ]
 #line(length: 100%)
 
-Aspiring software engineer with a robust skill set in HTML/CSS, Javascript, and C, and proficiency in SQL and Git. Demonstrated ability to 
-coordinate with teams and contribute to successful projects, consistently meeting high standards of quality. Actively seeking a software 
-development internship to further develop technical skills and contribute to innovative projects. 
+Aspiring web developer with solid experience in frontend technologies like HTML, CSS, and JavaScript, building responsive and user-friendly interfaces. Eager to expand skills into backend development and contribute to full-stack projects. Fast learner with a strong commitment to improving and adapting in dynamic development environments.
 #line(length: 100%, stroke: luma(221))
 
 //Experience

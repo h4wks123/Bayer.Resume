@@ -67,7 +67,7 @@ Aspiring web developer with solid experience in frontend technologies like HTML,
 ]
 - Scraped 50,000 links and 5,000 images from the Philippine Snake ID Facebook Group using Selenium as inputs for training the models. 
 - Performed exploratory data analysis, partially pre-processed the images, developed pre-trained models (ResNet50, VGG16, and DenseNet201). 
-- *Tech Stack:* Python, Selenium; *Contributors:* Clive Lim. 
+- *Tech Stack:* Python, Jupyter Notebook
 
 #text(12pt)[
   *Teyvat Compendium: Genshin Character Data Vault*
@@ -75,7 +75,7 @@ Aspiring web developer with solid experience in frontend technologies like HTML,
 - Fetched and integrated data from an open-source API for the popular gacha game Genshin Impact to display assets within the application. 
 - Developed interactive dashboards with character stats and data visualizations, enhancing user engagement and gameplay insights. 
 - Implemented Firebase authentication, allowing Google and phone logins for users to manage their favorite characters. 
-- *Tech Stack:* Dart, Flutter, Firebase; *Contributors:* T-jay Abunales. 
+- *Tech Stack:* Dart, Flutter, Firebase
 
 #text(12pt)[
   *Arty Mart: Devian Art Inspired Platform for Selling Artworks Online*
@@ -83,7 +83,7 @@ Aspiring web developer with solid experience in frontend technologies like HTML,
 - Developed front-end modules using React libraries, including components for toasters, image masonry layouts, and tailwind elements. 
 - Implemented image storage functionality using Cloudinary, facilitating efficient and secure online storage of artworks. 
 - Connected the backend to a MongoDB database using GraphQL, including the creation of resolvers, models, and types. 
-- *Tech Stack:* React , Vite, Tailwind, MongoDB, Graph QL, Cloudinary; *Contributors:* Erwin Antipuesto 
+- *Tech Stack:* React , Vite, Tailwind, MongoDB, Graph QL, Cloudinary
 
 
 #line(length: 100%, stroke: luma(221))

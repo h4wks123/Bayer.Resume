@@ -48,7 +48,7 @@ Aspiring web developer with solid experience in frontend technologies like HTML,
 ]
 #line(length: 100%)
 #text(12pt)[
-  *Softwarez, at its Best | Front-end Intern | September 2024 - February 2025*
+  *Softwarez, at its Best | Front-end Engineer Intern | September 2024 - February 2025*
 ]
 - Developed multiple responsive landing pages using Gatsby, Material UI, Blazor, and MudBlazor.
 - Contributed front-end fixes and enhancements to deployed websites, primarily #link("https://beta.crashr.io/")[Crashr] from the Github board. 

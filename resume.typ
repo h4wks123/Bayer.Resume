@@ -32,16 +32,6 @@
 ])
 
 #line(length: 100%, stroke: luma(221))
-
-//Summary
-#text(14pt)[
-    *Summary*
-]
-#line(length: 100%)
-
-Aspiring web developer with solid experience in frontend technologies like HTML, CSS, and JavaScript, building responsive and user-friendly interfaces. Eager to expand skills into backend development and contribute to full-stack projects. Fast learner with a strong commitment to improving and adapting in dynamic development environments.
-#line(length: 100%, stroke: luma(221))
-
 //Experience
 #text(14pt)[
     *Experience*
@@ -97,6 +87,17 @@ Aspiring web developer with solid experience in frontend technologies like HTML,
   *Bachelor of Science in Computer Science | University of San Carlos | 2025 | GWA: 1.6*
 ]
 - Consistent Deans Lister 2021 - 2023 
+
+#line(length: 100%, stroke: luma(221))
+
+//Certifications
+#text(14pt)[
+    *Certifications*
+]
+#line(length: 100%)
+- Introduction to Cybersecurity | Cisco Networking Academy | September 2024
+- Cyber Threat Management | Cisco Networking Academy | November 2024
+- CCNAv7: Switching, Routing, and Wireless Essentials | Cisco Networking Academy | December 2023
 
 #line(length: 100%, stroke: luma(221))
 

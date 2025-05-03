@@ -38,7 +38,7 @@
 ]
 #line(length: 100%)
 #text(12pt)[
-  *Softwarez, at its Best | Front-end Engineer Intern | September 2024 - February 2025*
+  *Softwarez, at its Best | Front-end Engineer  | September 2024 - February 2025*
 ]
 - Developed multiple responsive landing pages using Gatsby, Material UI, Blazor, and MudBlazor.
 - Contributed front-end fixes and enhancements to deployed websites, primarily #link("https://beta.crashr.io/")[Crashr] from the Github board. 
@@ -56,7 +56,7 @@
   *Image Classification of Venomous and Non-Venomous Snakes in the Philippines with Ensembled Transfer Learning*
 ]
 - Scraped 50,000 links and 5,000 images from the Philippine Snake ID Facebook Group using Selenium as inputs for training the models. 
-- Performed exploratory data analysis, partially pre-processed the images, developed pre-trained models (ResNet50, VGG16, and DenseNet201). 
+- Performed exploratory data analysis, partially pre-processed the images, and used pre-trained models (ResNet50, VGG16, and DenseNet201) to classify venomous and non-venomous snakes.
 - *Tech Stack:* Python, Jupyter Notebook
 
 #text(12pt)[
@@ -68,12 +68,12 @@
 - *Tech Stack:* Dart, Flutter, Firebase
 
 #text(12pt)[
-  *Arty Mart: Devian Art Inspired Platform for Selling Artworks Online*
+  *Arty Mart: DevianArt Inspired Platform for Selling Artworks Online*
 ]
-- Developed front-end modules using React libraries, including components for toasters, image masonry layouts, and tailwind elements. 
+- Developed UI components featuring image masonry layouts, interactive elements, and animations to create a DeviantArt-like user experience.
 - Implemented image storage functionality using Cloudinary, facilitating efficient and secure online storage of artworks. 
-- Connected the backend to a MongoDB database using GraphQL, including the creation of resolvers, models, and types. 
-- *Tech Stack:* React , Vite, Tailwind, MongoDB, Graph QL, Cloudinary
+- Designed and implemented GraphQL resolvers, models, and types to integrate the MongoDB backend
+- *Tech Stack:* React, Vite, NodeJS, Tailwind, MongoDB, Graph QL, Cloudinary
 
 
 #line(length: 100%, stroke: luma(221))
@@ -86,7 +86,7 @@
 #text(12pt)[
   *Bachelor of Science in Computer Science | University of San Carlos | 2025 | GWA: 1.6*
 ]
-- Consistent Deans Lister 2021 - 2023 
+- Consistent Deans Lister | 2021 - 2023 
 
 #line(length: 100%, stroke: luma(221))
 

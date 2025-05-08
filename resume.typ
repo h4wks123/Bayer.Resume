@@ -40,7 +40,7 @@
 #text(12pt)[
   *Softwarez, at its Best | Front-end Engineer  | September 2024 - February 2025*
 ]
-- Developed multiple responsive landing pages using Gatsby, Material UI, Blazor, and MudBlazor.
+- Developed multiple responsive landing pages with Gatsby/Material UI for React and Blazor/MudBlazor for .NET projects.
 - Contributed front-end fixes and enhancements to deployed websites, primarily #link("https://beta.crashr.io/")[Crashr] from the Github board. 
 - Authored an 80-page #link("https://github.com/h4wks123/SAIB.Frontend.Documentation")[documentation] using Typst to outline front-end standards and streamline the onboarding process for new developers. 
 - Built custom components, including a carousel and animated UI elements, implemented theming, and added dark/light mode.  

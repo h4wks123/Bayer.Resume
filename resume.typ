@@ -106,6 +106,6 @@
     *Skills*
 ]
 #line(length: 100%)
-- *Languages, Tools, and Platforms:* JavaScript, Typscript, Python, C, PHP, Dart, SQL, Git, Github, Tpyst, Figma, XAMPP, GraphQL, 
+- *Languages, Tools, and Platforms:* JavaScript, Typscript, Python, C, Dart, SQL, Git, Github, Tpyst, Figma, XAMPP, GraphQL, 
 - *Frontend and UI Development:* HTML, CSS, React, Gatsby, Blazor, Flutter, Tailwind CSS, Bootstrap, Material UI, MudBlazor, NextJS
 - *Backend Development and Databases:* NodeJS, Express, Drizzle, MySQL, Turso, Firebase

@@ -43,7 +43,8 @@
 - Developed multiple responsive landing pages with Gatsby/Material UI for React and Blazor/MudBlazor for .NET projects.
 - Contributed front-end fixes and enhancements to deployed websites, primarily #link("https://beta.crashr.io/")[Crashr] from the Github board. 
 - Authored an 80-page #link("https://github.com/h4wks123/SAIB.Frontend.Documentation")[documentation] using Typst to outline front-end standards and streamline the onboarding process for new developers. 
-- Built custom components, including a carousel and animated UI elements, implemented theming, and added dark/light mode.  
+- Built custom components, including a carousel and animated UI elements, implemented theming, and added dark/light mode.
+- Enhanced website performance, accessibility, and SEO by implementing improvements identified through Google Lighthouse audits.
 - Gained hands-on experience creating transactions on the Cardano blockchain. 
 #line(length: 100%, stroke: luma(221))
 
@@ -95,7 +96,6 @@
     *Certifications*
 ]
 #line(length: 100%)
-- Introduction to Cybersecurity | Cisco Networking Academy | September 2024
 - Cyber Threat Management | Cisco Networking Academy | November 2024
 - CCNAv7: Switching, Routing, and Wireless Essentials | Cisco Networking Academy | December 2023
 

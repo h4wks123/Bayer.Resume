@@ -43,7 +43,7 @@
 - *Backend:* Node.js, Express, Firebase, GraphQL, DrizzleORM
 - *Database:* MySQL, Turso, FreeSQL, Firestore
 - *Hosting and Deployment:* Vercel, Render
-- *Others:* Git, Github, Postman, VS Code, Figma, Typst, Ubuntu
+- *Others:* Git, Github, Swagger, VS Code, Figma, Typst, Ubuntu
 
 #line(length: 100%, stroke: luma(221))
 //Experience
@@ -120,9 +120,22 @@
     *EDUCATION*
 ]
 #line(length: 100%)
-#text(12pt)[
-  *Bachelor of Science in Computer Science | University of San Carlos | 2025 | GWA: 1.6*
-]
+
+#grid(
+  columns: (1fr, auto),
+  link("https://usc.edu.ph/" ,text(12pt)[*B.S. Computer Science*]),
+  text(10pt)[2021 Aug – Present | Cebu City, Philippines],
+)
+
+#grid(
+  columns: (1fr, auto),
+  grid(
+    columns: (100pt, auto),
+    align: top,
+    link("https://usc.edu.ph", text(10pt)[University of San Carlos]),
+    link("https://usc.edu.ph" ,image("images/link.svg", height: 10pt, width: 10pt)),),
+    text(10pt)[GWA: 1.6],
+)
 - Consistent Deans Lister | 2021 - 2023 
 
 #line(length: 100%, stroke: luma(221))

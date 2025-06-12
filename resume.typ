@@ -136,7 +136,8 @@
     link("https://usc.edu.ph" ,image("images/link.svg", height: 10pt, width: 10pt)),),
     text(10pt)[GWA: 1.6],
 )
-- Consistent Deans Lister | 2021 - 2023 
+- Consistent Deans Lister for 2021 Aug - 2023 July
+- Relevant Coursework: Algorithms & Data Structures, Programming Languages, Operating Systems, Networking, System Design and Analysis, Data Analysis, Information Assurance and Security, Web and Mobile Development.
 
 #line(length: 100%, stroke: luma(221))
 

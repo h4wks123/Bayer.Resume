@@ -17,7 +17,7 @@
   show heading: set text(font: title-font, fill: primary-color)
 
   // paragraphs styling
-  set par(justify: true, leading: 10pt, spacing: 9.5pt, linebreaks: "optimized")
+  set par(justify: true, leading: 9.4pt, spacing: 9pt, linebreaks: "optimized")
 
   // headings styling
   set heading(numbering: "I.1)")

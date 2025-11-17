@@ -33,19 +33,6 @@
 
 #line(length: 100%, stroke: luma(221))
 
-//Skills
-#text(14pt)[
-    *SKILLS*
-]
-#line(length: 100%)
-- *Languages:* C, C\# Javascript, Typescript, Python, Dart
-- *Frontend:* React, Gatsby, Next.js, HTML5, CSS3, Tailwind, MaterialUI, Flutter, Blazor, MudBlazor
-- *Backend:* Node.js, Express, Firebase, GraphQL, DrizzleORM
-- *Database:* MySQL, Turso, FreeSQL, Firestore
-- *Hosting and Deployment:* Vercel, Render
-- *Others:* Git, Github, Swagger, VS Code, Figma, Typst, Ubuntu
-
-#line(length: 100%, stroke: luma(221))
 //Experience
 #text(14pt)[
     *EXPERIENCE*
@@ -54,15 +41,45 @@
 
 #grid(
   columns: (1fr, auto),
-  link("https://saib.dev" ,text(12pt)[*Front-End Software Engineer*]),
-  text(10pt)[2024 Sep – 2025 Feb | Cebu City, Philippines],
+  link("https://tekkio.com/" ,text(12pt)[*Full Stack Engineer*]),
+  text(10pt)[2025 July – Present | Full Time],
 )
 
 #grid(
-  columns: (105pt, auto),
+  columns: (1fr, auto),
   align: top,
-  link("https://saib.dev", text(10pt)[Softwarez at its Best, Inc.]),
-  link("https://saib.dev" ,image("images/link.svg", height: 10pt, width: 10pt)),
+  grid(
+    columns: (55pt, auto),
+    align: top,
+    link("https://tekkio.com/", text(10pt)[Tekkio, LLC.]),
+    link("https://tekkio.com/" ,image("images/link.svg", height: 10pt, width: 10pt)),
+  ),
+  text(10pt)[Wyoming, United States]
+)
+
+- Significant contributor across 5 production projects, owning design, frontend, and backend development using Next.js, Rust, Flutter, and Drizzle ORM.
+- Built a multiplatform VNC client by implementing the RFB protocol in Dart with a Rust proxy, supporting multiple encoding algorithms.
+- Served as a core developer for a support platform enabling ticket-based issue resolution for partner companies in edge-computing environments.
+- Delivered multiple product features, including a rich-text editor, an MDX-driven documentation system, and authentication workflows.
+- Developed 25+ MDX-powered blog pages across multiple projects with features including pagination, filtering, and search.
+- Co-authored comprehensive architecture, frontend, and backend documentation across multiple projects.
+
+#grid(
+  columns: (1fr, auto),
+  link("https://saib.dev" ,text(12pt)[*Front-End Software Engineer*]),
+  text(10pt)[2024 Sep – 2025 Feb | Full Time],
+)
+
+#grid(
+  columns: (1fr, auto),
+  align: top,
+  grid(
+    columns: (105pt, auto),
+    align: top,
+    link("https://saib.dev", text(10pt)[Softwarez at its Best, Inc.]),
+    link("https://saib.dev" ,image("images/link.svg", height: 10pt, width: 10pt)),
+  ),
+  text(10pt)[Cebu City, Philippines]
 )
 
 - Developed multiple responsive landing pages with Gatsby/Material UI for React and Blazor/MudBlazor for .NET projects.
@@ -71,6 +88,7 @@
 - Built custom components, including a carousel and animated UI elements, implemented theming, and added dark/light mode.
 - Enhanced website performance, accessibility, and SEO by implementing improvements identified through Google Lighthouse audits.
 - Gained hands-on experience creating transactions on the Cardano blockchain. 
+
 #line(length: 100%, stroke: luma(221))
 
 //Projects
@@ -106,13 +124,6 @@
 - Developed interactive dashboards with character stats and data visualizations, enhancing user engagement and gameplay insights. 
 - Implemented Firebase authentication, allowing Google and phone logins for users to manage their favorite characters. 
 
-#text(12pt)[
-  *Arty Mart: DevianArt Inspired Platform for Selling Artworks Online*
-]
-- Developed UI components featuring image masonry layouts, interactive elements, and animations to create a DeviantArt-like user experience.
-- Implemented image storage functionality using Cloudinary, facilitating efficient and secure online storage of artworks. 
-- Designed and implemented GraphQL resolvers, models, and types to integrate the MongoDB backend
-
 #line(length: 100%, stroke: luma(221))
 
 //Education
@@ -141,37 +152,16 @@
 
 #line(length: 100%, stroke: luma(221))
 
-//Certifications
-#text(14pt)[
-    *CERTIFICATIONS*
-]
-#line(length: 100%)
 
-- #grid(
-  columns: (1fr, auto),
-  align: top,
-  grid(
-    columns: (210pt, 20pt),
-    align: top,
-    link("https://www.linkedin.com/in/ivanne-dave-bayer-a23b30302/details/certifications/1746144961067/single-media-viewer/?profileId=ACoAAE1o3LsBq36EsMn_lFuObLWljGZOTtZ5i2A",
-      "Cisco Networking Academy: Cyber Threat Management"),
-    link("https://www.linkedin.com/in/ivanne-dave-bayer-a23b30302/details/certifications/1746144961067/single-media-viewer/?profileId=ACoAAE1o3LsBq36EsMn_lFuObLWljGZOTtZ5i2A" ,image("images/link.svg", height: 10pt, width: 10pt))
-  ),
-  text[
-  2024 Nov 19
-  ]
-)
-- #grid(
-  columns: (1fr, auto),
-  align: top,
-  grid(
-    columns: (306pt, 20pt),
-    align: top,
-    link("https://www.linkedin.com/in/ivanne-dave-bayer-a23b30302/details/certifications/1746145429178/single-media-viewer/?profileId=ACoAAE1o3LsBq36EsMn_lFuObLWljGZOTtZ5i2A",
-      "Cisco Networking Academy: CCNAv7 Switching, Routing, and Wireless Essentials"),
-    link("https://www.linkedin.com/in/ivanne-dave-bayer-a23b30302/details/certifications/1746145429178/single-media-viewer/?profileId=ACoAAE1o3LsBq36EsMn_lFuObLWljGZOTtZ5i2A" ,image("images/link.svg", height: 10pt, width: 10pt))
-  ),
-  text[
-  2023 Dec 21
-  ]
-)
+//Skills
+#text(14pt)[
+    *SKILLS*
+]
+
+#line(length: 100%)
+- *Languages:* Javascript, Typescript, C, Python, Dart
+- *Frontend:* React, Gatsby, Next.js, HTML5, CSS3, Tailwind, MaterialUI, Flutter, ShadCN
+- *Backend:* Node.js, Express, Firebase, DrizzleORM
+- *Database:* MySQL, Turso, PostgreSQL
+- *Hosting and Deployment:* Vercel, Render, Docker
+- *Others:* Git, Github, Swagger, VS Code, Figma, Typst, Ubuntu

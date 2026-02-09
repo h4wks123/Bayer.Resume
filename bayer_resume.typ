@@ -61,7 +61,7 @@
 - Built a multiplatform VNC client by implementing the RFB protocol in Dart with a Rust proxy, supporting multiple encoding algorithms.
 - Served as a core developer for a support platform enabling ticket-based issue resolution for partner companies in edge-computing environments.
 - Delivered multiple product features, including a rich-text editor, an MDX-driven documentation system, and authentication workflows.
-- Developed 25+ MDX-powered blog pages across multiple projects with features including pagination, filtering, and search.
+- Developed 30+ MDX-powered blog pages across multiple projects with features including pagination, filtering, and search.
 - Co-authored comprehensive architecture, frontend, and backend documentation across multiple projects.
 
 #grid(
@@ -135,7 +135,7 @@
 #grid(
   columns: (1fr, auto),
   link("https://usc.edu.ph/" ,text(12pt)[*B.S. Computer Science*]),
-  text(10pt)[2021 Aug – Present | Cebu City, Philippines],
+  text(10pt)[2021 Aug – 2025 December | Cebu City, Philippines],
 )
 
 #grid(
@@ -147,7 +147,7 @@
     link("https://usc.edu.ph" ,image("images/link.svg", height: 10pt, width: 10pt)),),
     text(10pt)[GWA: 1.6],
 )
-- Consistent Deans Lister for 2021 Aug - 2023 July
+- Consistent Deans Lister for 2021 Aug - 2025 July
 - Relevant Coursework: Algorithms & Data Structures, Programming Languages, Operating Systems, Networking, System Design and Analysis, Data Analysis, Information Assurance and Security, Web and Mobile Development.
 
 #line(length: 100%, stroke: luma(221))
@@ -159,9 +159,9 @@
 ]
 
 #line(length: 100%)
-- *Languages:* Javascript, Typescript, C, Python, Dart
-- *Frontend:* React, Gatsby, Next.js, HTML5, CSS3, Tailwind, MaterialUI, Flutter, ShadCN
-- *Backend:* Node.js, Express, Firebase, DrizzleORM
+- *Languages:* Javascript, Typescript, C, Python, Dart, Rust
+- *Frontend:* HTML5, CSS3, Tailwind, React, Gatsby, Next.js, Flutter
+- *Backend:* Node.js, Express, Firebase, DrizzleORM, Axum
 - *Database:* MySQL, Turso, PostgreSQL
 - *Hosting and Deployment:* Vercel, Render, Docker
 - *Others:* Git, Github, Swagger, VS Code, Figma, Typst, Ubuntu

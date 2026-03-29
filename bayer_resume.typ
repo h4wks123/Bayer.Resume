@@ -41,10 +41,34 @@
 
 #grid(
   columns: (1fr, auto),
+  link("https://opensff.org/" ,text(12pt)[*Full Stack Engineer*]),
+  text(10pt)[2025 October – Present | Full Time],
+)
+
+#grid(
+  columns: (1fr, auto),
+  align: top,
+  grid(
+    columns: (40pt, auto),
+    align: top,
+    link("https://opensff.org/", text(10pt)[OpenSFF]),
+    link("https://opensff.org/" ,image("images/link.svg", height: 10pt, width: 10pt)),
+  ),
+  text(10pt)[Wyoming, United States]
+)
+
+
+- Helped implement RESTful APIs based on the Redfish standard using Rust and Axum, enabling seamless integration between backend and frontend.
+- Built a cross-platform VNC client in Flutter with multiple decoders to deliver real-time remote desktop rendering across operating systems.
+- Optimized a Rust VNC server using encoding strategies and TurboJPEG compression for improving frame delivery performance.
+- Developed a scalable blog platform for the OpenSFF website, supporting 40+ MDX articles with pagination, search, and filtering capabilities.
+- Designed mockups in Figma and implemented the frontend for the OpenSFF website and management module application.
+
+#grid(
+  columns: (1fr, auto),
   link("https://tekkio.com/" ,text(12pt)[*Full Stack Engineer*]),
   text(10pt)[2025 July – Present | Full Time],
 )
-
 #grid(
   columns: (1fr, auto),
   align: top,
@@ -57,12 +81,11 @@
   text(10pt)[Wyoming, United States]
 )
 
-- Significant contributor across 5 production projects, owning design, frontend, and backend development using Next.js, Rust, Flutter, and Drizzle ORM.
-- Built a multiplatform VNC client by implementing the RFB protocol in Dart with a Rust proxy, supporting multiple encoding algorithms.
-- Served as a core developer for a support platform enabling ticket-based issue resolution for partner companies in edge-computing environments.
-- Delivered multiple product features, including a rich-text editor, an MDX-driven documentation system, and authentication workflows.
-- Developed 30+ MDX-powered blog pages across multiple projects with features including pagination, filtering, and search.
-- Co-authored comprehensive architecture, frontend, and backend documentation across multiple projects.
+- Contributed to 3 production systems, owning end-to-end design, frontend, and backend development using Next.js, Rust, and Drizzle ORM.
+- Built core features for a ticket-based support platform used by partner companies in edge-computing environments.
+- Developed key product features including a rich-text editor, MDX-based documentation system, and authentication workflows.
+- Optimized SQL queries with indexing and caching to improve ticket retrieval and application performance.
+- Co-authored architecture and full-stack documentation to improve team onboarding and development efficiency.
 
 #grid(
   columns: (1fr, auto),
@@ -87,7 +110,6 @@
 - Authored an 80-page #link("https://github.com/h4wks123/SAIB.Frontend.Documentation")[documentation] using Typst to outline front-end standards and streamline the onboarding process for new developers. 
 - Built custom components, including a carousel and animated UI elements, implemented theming, and added dark/light mode.
 - Enhanced website performance, accessibility, and SEO by implementing improvements identified through Google Lighthouse audits.
-- Gained hands-on experience creating transactions on the Cardano blockchain. 
 
 #line(length: 100%, stroke: luma(221))
 
@@ -106,23 +128,10 @@
  )
 
 - Integrated NextAuth.js to manage JWT-based authentication, client-server session handling, and middleware-based route protection.
-- Developed paginated, searchable, and filterable order data views with debounced input handling for performance optimization.
 - Established structured communication between frontend handlers and backend logic using Next.js API routes.
 - Designed database schema, business logic, and migration strategies using Drizzle ORM on the backend.
 - Deployed the Next.js application via Vercel, leveraging CI/CD and serverless functions.
 - Enabled real-time delivery status updates using a custom Server-Sent Events (SSE) middleware service hosted on Render
-
-#grid(
-  columns: (287pt, 20pt),
-  align: top,
-  link("https://github.com/Yaj-t/CIS-2203-Mob-dev-finals-project", text(12pt)[
-    *Teyvat Compendium: Genshin Character Data Vault*
-  ]),
-  link("https://github.com/Yaj-t/CIS-2203-Mob-dev-finals-project" ,image("images/link.svg", height: 10pt, width: 10pt)),
- )
-- Fetched and integrated data from an open-source API for the popular gacha game Genshin Impact to display assets within the application. 
-- Developed interactive dashboards with character stats and data visualizations, enhancing user engagement and gameplay insights. 
-- Implemented Firebase authentication, allowing Google and phone logins for users to manage their favorite characters. 
 
 #line(length: 100%, stroke: luma(221))
 

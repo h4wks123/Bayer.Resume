@@ -154,9 +154,9 @@
     align: top,
     link("https://usc.edu.ph", text(10pt)[University of San Carlos]),
     link("https://usc.edu.ph" ,image("images/link.svg", height: 10pt, width: 10pt)),),
-    text(10pt)[GWA: 1.6],
+    text(10pt)[GWA: 1.6 / 1.0],
 )
-- Consistent Deans Lister for 2021 Aug - 2025 July
+- Consistent Deans Lister for 2021 Aug - 2025 December
 - Relevant Coursework: Algorithms & Data Structures, Programming Languages, Operating Systems, Networking, System Design and Analysis, Data Analysis, Information Assurance and Security, Web and Mobile Development.
 
 #line(length: 100%, stroke: luma(221))

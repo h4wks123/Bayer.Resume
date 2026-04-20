@@ -57,7 +57,7 @@
   text(10pt)[Wyoming, United States]
 )
 
-- Engineered a real-time interaction system using WebSockets and custom protocol handling, enabling low-latency bidirectional input and rendering.
+- Engineered a Flutter-based real-time VNC client application with WebSocket integration, enabling low-latency bidirectional input and rendering.
 - Optimized real-time rendering pipeline in Rust, reducing frame latency by \~88% (600ms → 70ms) through low-level performance tuning.
 - Reduced network payload size by 90.57% by implementing efficient encoding strategies, improving bandwidth usage in real-time systems.
 - Designed and built a full-stack management platform integrating 30+ APIs for real-time control, configuration, and monitoring of distributed systems.

@@ -42,7 +42,7 @@
 #grid(
   columns: (1fr, auto),
   link("https://opensff.org/" ,text(12pt)[*Full-Stack Software Engineer*]),
-  text(10pt)[2025 October – Present | Full Time],
+  text(10pt)[2025 October – Present | Contract],
 )
 
 #grid(
@@ -69,7 +69,7 @@
 #grid(
   columns: (1fr, auto),
   link("https://tekkio.com/" ,text(12pt)[*Full-Stack Software  Engineer*]),
-  text(10pt)[2025 July – Present | Full Time],
+  text(10pt)[2025 July – Present | Contract],
 )
 #grid(
   columns: (1fr, auto),

@@ -114,28 +114,6 @@
 - Built custom components, including carousels and animated UI elements, implemented theming, and added dark/light mode.
 - Enhanced website performance, accessibility, and SEO by implementing improvements identified through Google Lighthouse audits.
 
-// #line(length: 100%, stroke: luma(221))
-
-// //Projects
-// #text(14pt)[
-//     *PROJECTS*
-// ]
-// #line(length: 100%)
-// #grid(
-//   columns: (425pt, 20pt),
-//   align: top,
-//   link("https://sprinkla.vercel.app/", text(12pt)[
-//     *Sprinkla: End-to-End Delivery Management System for a Donut Inspired Café*
-//   ]),
-//   link("https://sprinkla.vercel.app/" ,image("images/link.svg", height: 10pt, width: 10pt)),
-//  )
-
-// - Integrated NextAuth.js to manage JWT-based authentication, client-server session handling, and middleware-based route protection.
-// - Established structured communication between frontend handlers and backend logic using Next.js API routes.
-// - Designed database schema, business logic, and migration strategies using Drizzle ORM on the backend.
-// - Deployed the Next.js application via Vercel, leveraging CI/CD and serverless functions.
-// - Enabled real-time delivery status updates using a custom Server-Sent Events (SSE) middleware service hosted on Render
-
 #line(length: 100%, stroke: luma(221))
 
 //Education
